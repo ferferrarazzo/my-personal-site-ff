@@ -1,4 +1,4 @@
-import { profile, skills } from "../../data/ferProfile";
+import { skills } from "../../data/ferProfile";
 
 export default function Skills() {
   return (
